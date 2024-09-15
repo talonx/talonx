@@ -2,9 +2,9 @@
 
 I'm currently building [https://incidenthub.cloud/](https://incidenthub.cloud/)
 
-<img src="https://myreadme.vercel.app/api/embed/talonx?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api?username=talonx&theme=dark" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=talonx&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=talonx&theme=flat&no-bg=true" />
 
 <!--
 **talonx/talonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
