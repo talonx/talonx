@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hrish
 
-I'm currently building [https://incidenthub.cloud/](https://incidenthub.cloud/)
+I'm currently building [https://incidenthub.cloud/](https://incidenthub.cloud/) - a SaaS which [monitors](https://incidenthub.cloud/services) third-party Cloud and SaaS status pages.
 
 <img src="https://github-readme-stats.vercel.app/api?username=talonx&theme=dark" />
 
