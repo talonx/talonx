@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hrish
+## Hi there 👋 I'm Hrish
 
 I'm currently building [https://incidenthub.cloud/](https://incidenthub.cloud/) - a SaaS which [monitors](https://incidenthub.cloud/services) third-party Cloud and SaaS status pages.
 
@@ -8,7 +8,7 @@ I'm currently building [https://incidenthub.cloud/](https://incidenthub.cloud/) 
 
 <img src="https://github-profile-trophy.vercel.app/?username=talonx&theme=flat&no-bg=true" />
 
-# Latest newsletter posts
+## Latest newsletter posts
 <!-- BLOG-POST-LIST:START -->
 - [Configuring Your CDN for Efficient Static Content Delivery](https://techops.substack.com/p/configuring-your-cdn-for-efficient)
 - [How To Share Outage Updates That Don’t Confuse Everyone](https://techops.substack.com/p/how-to-share-outage-updates-that)
